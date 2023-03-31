@@ -1,2 +1,5 @@
-# QR-code-component
-HTML and CSS project for qr code component
+A simple HTML and CSS project for qr-code
+
+technologies used:
+HTML
+CSS
